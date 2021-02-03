@@ -1,0 +1,13 @@
+D:\Wesley\Wesley\Estudos\Digital Innovation One\Praticando-csharp\Exemplo\obj\Debug\netcoreapp3.1\exemplo.csprojAssemblyReference.cache
+D:\Wesley\Wesley\Estudos\Digital Innovation One\Praticando-csharp\Exemplo\obj\Debug\netcoreapp3.1\exemplo.AssemblyInfoInputs.cache
+D:\Wesley\Wesley\Estudos\Digital Innovation One\Praticando-csharp\Exemplo\obj\Debug\netcoreapp3.1\exemplo.AssemblyInfo.cs
+D:\Wesley\Wesley\Estudos\Digital Innovation One\Praticando-csharp\Exemplo\obj\Debug\netcoreapp3.1\exemplo.csproj.CoreCompileInputs.cache
+D:\Wesley\Wesley\Estudos\Digital Innovation One\Praticando-csharp\Exemplo\bin\Debug\netcoreapp3.1\exemplo.exe
+D:\Wesley\Wesley\Estudos\Digital Innovation One\Praticando-csharp\Exemplo\bin\Debug\netcoreapp3.1\exemplo.deps.json
+D:\Wesley\Wesley\Estudos\Digital Innovation One\Praticando-csharp\Exemplo\bin\Debug\netcoreapp3.1\exemplo.runtimeconfig.json
+D:\Wesley\Wesley\Estudos\Digital Innovation One\Praticando-csharp\Exemplo\bin\Debug\netcoreapp3.1\exemplo.runtimeconfig.dev.json
+D:\Wesley\Wesley\Estudos\Digital Innovation One\Praticando-csharp\Exemplo\bin\Debug\netcoreapp3.1\exemplo.dll
+D:\Wesley\Wesley\Estudos\Digital Innovation One\Praticando-csharp\Exemplo\bin\Debug\netcoreapp3.1\exemplo.pdb
+D:\Wesley\Wesley\Estudos\Digital Innovation One\Praticando-csharp\Exemplo\obj\Debug\netcoreapp3.1\exemplo.dll
+D:\Wesley\Wesley\Estudos\Digital Innovation One\Praticando-csharp\Exemplo\obj\Debug\netcoreapp3.1\exemplo.pdb
+D:\Wesley\Wesley\Estudos\Digital Innovation One\Praticando-csharp\Exemplo\obj\Debug\netcoreapp3.1\exemplo.genruntimeconfig.cache
